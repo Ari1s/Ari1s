@@ -24,4 +24,5 @@ Jestem pasjonatką programowania i informatyki, z zamiłowaniem do eksplorowania
 
 - Programowanie aplikacji webowych
 - Sztuczna inteligencja
+- Słuchanie muzyki 
 - Gry komputerowe
