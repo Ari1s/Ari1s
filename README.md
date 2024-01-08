@@ -8,7 +8,7 @@ Jestem pasjonatką programowania i informatyki, z zamiłowaniem do eksplorowania
 
 ## 🎓 Edukacja
 
-- **Zespół Szkół i Placówek Oświatowych im. Emila Godlewskiego Technikum nr 2 ** - Klasa programistyczna, *(Wrzesień 2021 - Obecnie)*
+- *Zespół Szkół i Placówek Oświatowych im. Emila Godlewskiego Technikum nr 2 * - Klasa programistyczna, *(Wrzesień 2021 - Obecnie)*
 
 ## 🚀 Umiejętności programistyczne
 
