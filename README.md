@@ -1,3 +1,5 @@
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F50-amazing-fireworks-animated-gif-pics-to-share--721701909031440851%2F&psig=AOvVaw0qExVvgssFnjhYWM6Dc30h&ust=1704898395114000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDrpMvH0IMDFQAAAAAdAAAAABAJ)
+
 # O mnie
 
 Cześć, jestem Arii 👋
