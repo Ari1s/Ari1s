@@ -5,7 +5,7 @@ Cześć, jestem Arii 👋
 
 ## 🚀 O mnie
 
-Jestem pasjonatką programowania i informatyki, z zamiłowaniem do eksplorowania nowych technologii. Aktualnie jestem uczennicą w piątej klasie programistycznej.
+Jestem pasjonatką programowania i informatyki, z zamiłowaniem do eksplorowania nowych technologii.
 
 ## 🎓 Edukacja
 
@@ -19,8 +19,7 @@ Jestem pasjonatką programowania i informatyki, z zamiłowaniem do eksplorowania
 
 ## 🌐 Kontakt
 
-- 📧 Email: aleeeeksiaa@gmail.com
-
+- 📧 discord: _aesia\_
 ## 🌱 Zainteresowania
 
 - Programowanie aplikacji webowych
