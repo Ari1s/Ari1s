@@ -5,11 +5,11 @@ Cześć, jestem Arii 👋
 
 ## 🚀 O mnie
 
-Jestem pasjonatką programowania i informatyki, z zamiłowaniem do eksplorowania nowych technologii. Aktualnie jestem uczennicą w trzeciej klasie programistycznej.
+Jestem pasjonatką programowania i informatyki, z zamiłowaniem do eksplorowania nowych technologii. Aktualnie jestem uczennicą w piątej klasie programistycznej.
 
 ## 🎓 Edukacja
 
-- Zespół Szkół i Placówek Oświatowych im. Emila Godlewskiego Technikum nr 2  - Klasa programistyczna, *(Wrzesień 2021 - Obecnie)*
+- Zespół Szkół i Placówek Oświatowych im. Emila Godlewskiego Technikum nr 2  - Klasa programistyczna, *(Wrzesień 2021 - 2026)*
 
 ## 🚀 Umiejętności programistyczne
 
